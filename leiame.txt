@@ -1,0 +1,52 @@
+##############################################################################
+# Parte do livro Introdução à Programação com Python
+# Autor: Nilo Ney Coutinho Menezes
+# Editora Novatec (c) 2010-2014
+# Primeira edição - Novembro/2010 - ISBN 978-85-7522-250-8
+# Primeira reimpressão - Outubro/2011
+# Segunda reimpressão - Novembro/1012
+# Terceira reimpressão - Agosto/2013
+# Segunda edição - Junho/2014 - ISBN 978-85-7522-408-3
+# Site: http://python.nilo.pro.br/
+# 
+# Arquivo: listagem\leiame.txt
+##############################################################################
+
+= Junho/2014 ==============================================================
+
+* Novos arquivos para os capítulo 10 e 11 da segunda edição.
+
+= Novembro/2010 ==============================================================
+
+Versão inicial do código fonte
+
+Observações:
+
+* As listagens deste livro foram escritas para a versão 3.1 do Python, 
+  as instruções para instalação se encontram no capítulo 2 do livro.
+
+* Você precisa de um editor de textos com suporte a edição em UTF-8
+  Windows: PSPad, Notepad++, IDLE
+  Linux: vim, joe, gedit, emacs, IDLE
+  Mac OS X: TextMate, vim, IDLE
+
+* Algumas listagens devem ser digitadas ou copiadas no interpretador Python.
+  Estas listagens tiveram os símbolos de >>> e ... removidos de forma
+  a facilitar este trabalho. Lembre-se que o interpretador imprime o retorno
+  das funções na tela e que você precisa utilizar a função print caso deseje
+  o mesmo em um programa.
+  
+* Caso encontre erros, favor enviar um email para erros@nilo.pro.br
+
+= Teste do suporte a UTF-8 ===================================================
+
+aeiou com acento agudo: áéíóú
+aeiou com acento grave: àèìòù
+ao com til: ãõ
+aeiou com acento circunflexo: âêîôû
+aeiou com trema: äëïöü
+cedilha: ç
+
+As linhas acima possuem caracteres acentuados. Se você não visualizar 
+corretamente estes acentos, verifique se seu editor de textos tem suporte a
+UTF-8.
